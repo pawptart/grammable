@@ -1,24 +1,9 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is an instagram clone built in Ruby on Rails 5.2.1 as part of a project for Vanderbilt University's Coding Bootcamp. 
 
-Things you may want to cover:
+Grammable features ability to upload images to Amazon S3 through the CarrierWave gem and also accepts user comments--just like the real app! 
 
-* Ruby version
+See Grammable in action [here](https://grammable-tyler-porter.herokuapp.com).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## TODO
